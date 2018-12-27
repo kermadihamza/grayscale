@@ -45,3 +45,41 @@ p {
     margin: auto;
 }
 
+#bg {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20%;
+}
+
+#border {
+    margin-top: 20%;
+    border-left: 0.34rem solid #64a19d;
+    padding: 0 0 0 2rem;
+    text-align: left;
+    
+}
+
+.bg-black {
+    background-color: #161616;
+   
+}
+
+h4 {
+    padding-top: 30%;
+    
+}
+
+#example {
+    max-width: 50%;
+}
+
+hr {
+    border-color: #64a19d;
+    border-width: .25rem;
+    max-width: 30%;
+
+}
+
+#img2 {
+    max-width: 100%;
+}
