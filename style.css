@@ -83,3 +83,86 @@ hr {
 #img2 {
     max-width: 100%;
 }
+
+#demo2 {
+    background: url(img/bg-signup.jpg);
+    background-size: cover;
+}
+
+input {
+    max-width: 100%;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+    
+}
+
+.btn-primary {
+    margin-top: 10%;
+    margin-right: 30%;
+    padding: 1rem;
+    background-color: #64a19d;
+}
+
+#plane {
+    margin-top: 10%;
+  
+}
+
+
+.signup-section{
+    padding:10rem 0;
+    background:linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(img/bg-signup.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:cover;
+ }
+ .signup-section .form-inline input{
+    -webkit-box-shadow:0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
+    box-shadow:0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
+    padding:1.25rem 2rem;
+    height:auto;
+    font-size:80%;
+    text-transform:uppercase;
+    letter-spacing:.15rem;
+    border:0
+ }
+ .contactbas{
+    padding:5rem 0 0
+ }
+ .contactbas .card{
+    border:0;
+    border-bottom:.25rem solid #64a19d
+ }
+ .contactbas .card h4{
+    font-size:.8rem;
+    text-transform:uppercase;
+    letter-spacing:.15rem
+ }
+ .contactbas .card hr{
+    border-color:#64a19d;
+    border-width:.25rem;
+    width:3rem
+ }
+ .contactbas .social{
+    margin-top:5rem
+ }
+ .contactbas .social a{
+    text-align:center;
+    height:3rem;
+    width:3rem;
+    background:rgba(255,255,255,.1);
+    border-radius:100%;
+    line-height:3rem;
+    color:rgba(255,255,255,.3)
+ }
+ .contactbas .social a:active{
+    color:#fff
+ }
+ 
+ .fa {
+    color: #64a19d;
+ }
+
